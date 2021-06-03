@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A baptismal catechisme shewing unto what persons, whether of riper years or as yet infants, the sacrament of baptisme ought to be administred according to the Scripture by that Reverend Minister Mr. Daniel Evance ...</title>
+            <author>Evance, Daniel.</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38765</idno><idno type="EEBO-CITATION">12791716</idno>
+  <idno type="VID">93947</idno>
+  <idno type="EEBO-PROQUEST">2264178207</idno>
+  
+            <idno type="STC">Wing E3441</idno>
+            <idno type="STC">ESTC R4771</idno>
+            <idno type="OCLC">12791716</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93947)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 379:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A baptismal catechisme shewing unto what persons, whether of riper years or as yet infants, the sacrament of baptisme ought to be administred according to the Scripture by that Reverend Minister Mr. Daniel Evance ...</title>
+                  <author>Evance, Daniel.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.T. for Nathanael Webb and William Grantham ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93947:1"/>
+            <pb facs="tcp:93947:1"/>
+            <p>A BAPTISMAL CATECHISME, SHEWING Unto what Persons, whether of Riper years, or as yet Infants, The Sa<g ref="char:EOLhyphen"/>crament of Baptisme ought to be ad<g ref="char:EOLhyphen"/>ministred according to the Scripture.</p>
+            <p>By that Reverend Minister Mr. <hi>Daniel Evance,</hi> sometime Preacher of the Word at Clement Danes, <hi>London.</hi>
+            </p>
+            <p>And late pastour of the Church of Cal<g ref="char:EOLhyphen"/>borne in the Isle of Wight.</p>
+            <q>
+               <bibl>
+                  <hi>Acts</hi> 2.39,</bibl> The promise is to you, and to your children. <hi>&amp;c.</hi>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>E. T.</hi> for <hi>Nathanael Webb</hi> and <hi>William Grantham,</hi> at the Black Beare in Pauls Church-yard, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:93947:2"/>
+            <pb facs="tcp:93947:2"/>
+            <p>QUESTION.</p>
+            <p>VNto whom is the Sacrament of Baptisme not to be Admini<g ref="char:EOLhyphen"/>stred?</p>
+            <p>Answ. <hi>Not to any, that are out of the visible Church, and so strangers to the Co<g ref="char:EOLhyphen"/>venant of promise, whether Men, Women, or Infants.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Unto whom is the sacrament of Baptism to be administred?</p>
+            <p>Answ. <hi>To Infidels, Converted to the faith by preaching: and to Infants, born of one, or both beleeving parents, before they are Taught.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How may it be proved, That Infidels, converted to the faith, may and ought to be baptized?</p>
+            <p>Answ. <hi>Because the people of</hi> Samaria, <hi>as soon as they beleeved</hi> Philip, <hi>who preach<g ref="char:EOLhyphen"/>ed the things that concerned the Kingdom
+<pb n="2" facs="tcp:93947:3"/>of God, and the Name of Jesus Christ, They were baptized, both men and women.</hi> Acts 8.12.</p>
+            <p>
+               <hi>Quest.</hi> Then the Scripture expresly requires faith, and the profession of it in the party to be Baptized: Doth it not?</p>
+            <p>Answ. <hi>Yes, in growne men and women: but this would be remembred, that when the Scripture requires faith in the party to be Baptized, it speaks only of men and wo<g ref="char:EOLhyphen"/>men grown up to yeares.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> And doth not this exclude Infants from Baptisme?</p>
+            <p>Answ. <hi>No: for when the</hi> Apostle <hi>gives a rule, that none should eate but those that Labour, it would be monstrous to deny meat to Children, and impotent persons: so when the scripture requires, that those who are growen up to yeares, must beleeve in or<g ref="char:EOLhyphen"/>der to Baptisme, It is absurd to say, that from thence Children are excluded from be<g ref="char:EOLhyphen"/>ing Baptized.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you make that good?</p>
+            <pb n="3" facs="tcp:93947:3"/>
+            <p>Answ. <hi>Because the rule for baptizing those that are grown into years is one, &amp; the ground for Baptizing of Infants is another.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Have you any expresse rule then in Scripture, or example, for the baptizing of Infants?</p>
+            <p>Answ. <hi>Suppose the Scriptures doe not expresse directly the baptizing of Infants, that is no sufficient reason why baptisme should be denied to Infants.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What ground have you for that?</p>
+            <p>Answ. <hi>Because, by the same reason, the sacrament of the Lords supper should be de<g ref="char:EOLhyphen"/>nied to women, for it is not directly expres<g ref="char:EOLhyphen"/>sed in all the New testament that any wo<g ref="char:EOLhyphen"/>men did partake of it.</hi>
+            </p>
+            <p>
+               <hi>Quest</hi> Yea, but can you shew me a<g ref="char:EOLhyphen"/>ny one express Text of scripture, that women should not receive the sacra<g ref="char:EOLhyphen"/>ment of the Supper?</p>
+            <p>Answ. No: no more can you shew me any one expresse Text of Scripture, That no Infants should be Baptized.</p>
+            <pb n="4" facs="tcp:93947:4"/>
+            <p>
+               <hi>Quest.</hi> But it is most probable by Scripture, that women did receive the sacrament of the Supper: is it not?</p>
+            <p>Answ. <hi>Yes: and so it is most probable by scripture, that Infants ought to be Baptized.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What can you say for the pro<g ref="char:EOLhyphen"/>bability of Infants Baptisme?</p>
+            <p>Answ. <hi>It is most probable Infants were Baptized, because wee read, that such an one was Baptized, and all his houshold; the house of Lidya and of the Jaylor, and the house of Crispus and of Stephenus: and why should we imagin that there were no Infants there, or that those Infants were left out, when the Text sayes, The whole houshold was Bap<g ref="char:EOLhyphen"/>tized.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Will this hold as an argu<g ref="char:EOLhyphen"/>ment of probability?</p>
+            <p>Answ. <hi>Yea: for if wee have ground of probability that women received the Sacra<g ref="char:EOLhyphen"/>ment of the Supper, because the text sayes,</hi> Acts 2.46. <hi>There was breaking of bread from house to house; and so it is most proba<g ref="char:EOLhyphen"/>ble that women joyned in the breaking of
+<pb n="5" facs="tcp:93947:4"/>bread: It is as good a ground of probability, that infants were Baptized, because the Text sayes, Such were Baptized, &amp; their houshold.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> If Infants were capable of Baptisme, as well as women are of recei<g ref="char:EOLhyphen"/>ving the supper, the probability would be great, from the former Evidence: But are Infants capable of being baptized?</p>
+            <p>Answ. <hi>Yes: for though Infants are not capable of Baptisme by that way whereby grown men are,</hi> viz. <hi>by hearing, conceiving, and making profession of their faith; yet it followes not, that Infants are not capable in and by another way.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> By what way can you imagin that an Infant can possibly be capable of Baptisme?</p>
+            <p>Answ. <hi>In Baptisme we are not so much to consider the outward Ceremony, as the inward grace: This is easie to be conceived, that Infants are capable of being dipped or sprinckled with water: All the difficulty is about the application of the inward grace.</hi>
+            </p>
+            <pb n="6" facs="tcp:93947:5"/>
+            <p>
+               <hi>Quest.</hi> Can you make it evident, that Infants are capable of the application of the inward grace of Baptisme?</p>
+            <p>Answ. <hi>Yes, because we know, that the sin of</hi> Adam <hi>is imputed to Children, and they are defiled by it, though they be not ca<g ref="char:EOLhyphen"/>pable to understand it: even so the righte<g ref="char:EOLhyphen"/>ousnesse of</hi> Christ <hi>may be imputed vnto Infants also, though not capable of vnder<g ref="char:EOLhyphen"/>standing it.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Is this sufficient evidence, that Infants are capable of the inward grace of Baptisme?</p>
+            <p>Answ. <hi>Yes: because</hi> Adams <hi>Corrupti<g ref="char:EOLhyphen"/>on cannot be more effectual to pollute In<g ref="char:EOLhyphen"/>fants, then</hi> Christs <hi>blood and grace is to sanctifie them.</hi>
+            </p>
+            <p>
+               <hi>Quest. I</hi> beleeve that: But can you tell me how the righteousnesse &amp; grace of <hi>Christ</hi> is applyed to them?</p>
+            <p>Ans. <hi>Gods wisdom wants not means to ap<g ref="char:EOLhyphen"/>ply it, though we cannot attain to the maner.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Yea, but by what meanes can it be conceived, that there may be an
+<pb n="7" facs="tcp:93947:5"/>application of Christs righteousnesse and grace unto Infants, who are not capable of beleving?</p>
+            <p>Answ. <hi>I dare not say, that Infants are not capable of beleeving: for our Saviour seems to reckon some infants among belee<g ref="char:EOLhyphen"/>vers,</hi> Math. 18.6. <hi>But this is sufficient, that God can supply the defect of faith by his sanctifying Spirit, which can doe all things on our part which faith should do.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> God can doe it: but can you prove that God doth it unto any In<g ref="char:EOLhyphen"/>fants?</p>
+            <p>Answ. <hi>Yes, Because when Christ says it of some Infants, that vnto them belongeth the kingdom of God: It follows, that upon some Infants, the title of the kingdom is setled And this is an undoubted truth, that some Infants are saved. And if so, there must be an application of the righteousness of Christ vnto them, by some means or other. And this is sufficient to prove, that some In<g ref="char:EOLhyphen"/>fants are capable of Baptisme.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Is this all that you have to say
+<pb n="8" facs="tcp:93947:6"/>for the Baptisme of Infants?</p>
+            <p>Answ. <hi>No: it is the least that may be said for it,</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Why then have you stood so long upon this argument?</p>
+            <p>Answ. <hi>To prove the vaine cavils a<g ref="char:EOLhyphen"/>gainst Infant-Beptisme. As</hi>
+            </p>
+            <p n="1">1. That the Scripture requires beleeving in those that are to be Baptized.</p>
+            <p n="2">2. That there is no expresse precept or example in Scripture for the baptizing of infants.</p>
+            <p n="3">3. That the argument of probability is vaine.</p>
+            <p n="4">4. That Infants are not capable of the grace of Baptisme.</p>
+            <p>
+               <hi>Quest.</hi> But can you prove from Scripture that some Infants ought to be Baptized?</p>
+            <p>Answ. <hi>Yes.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you proceed?</p>
+            <p>Answ. <hi>By direct consequence from Texts of Scripture.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Where will you lay your foundation to conclude from Scripture,
+<pb n="9" facs="tcp:93947:6"/>that some infants ought to be baptized?</p>
+            <p>Answ. <hi>Vpon Scripture precept, and pro<g ref="char:EOLhyphen"/>mise, and example.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What precept have you from whence you can gather by direct conse<g ref="char:EOLhyphen"/>quence that it will evidently follow that some infants ought to be baptized?</p>
+            <p>Answ. <hi>Christs owne command to his di<g ref="char:EOLhyphen"/>sciples, to go and teach all Nations, bapti<g ref="char:EOLhyphen"/>zing them in the name of the father, and of the son, and of the holy ghost.</hi> Math. 28.19.</p>
+            <p>
+               <hi>Quest.</hi> Doth not this text rather seem to be against the Baptizing of infants then for it?</p>
+            <p>Answ. <hi>No: by no meanes.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What can you answer to the order of the precept, first teach, and then baptize: are infants capable of being taught?</p>
+            <p>Answ. <hi>That is nothing to the purpose, because the order of the words conclude no<g ref="char:EOLhyphen"/>thing.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you make that evi<g ref="char:EOLhyphen"/>dent?</p>
+            <pb n="10" facs="tcp:93947:7"/>
+            <p>Answ. <hi>Because else where Baptisme is put before teaching, (as</hi> Mark 1.4) Iohn <hi>did Baptize in the wildernesse, and preach the Baptisme of repentance, And here in the text, teaching follows baptizing.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> VVhat will you conclude from hence?</p>
+            <p>Answ. <hi>That if you minde the order it may be as well proved, that baptisme went before teaching, as that teaching went before baptisme.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> But both places speak of teach<g ref="char:EOLhyphen"/>ing and baptizing.</p>
+            <p>Answ. <hi>True, but it doth not follow from thence, that none ought to be baptized but those that are taught?</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you make that evi<g ref="char:EOLhyphen"/>dent?</p>
+            <p>Answ. <hi>Because there is one reason for the baptizing of men of years, and another for the baptizing of infants.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> But deal plainly: was not teaching necessary before baptizing, in those times, when Christ sent forth his
+<pb n="11" facs="tcp:93947:7"/>disciples to teach and baptize, and when it is said of <hi>Iohn,</hi> that he did baptize and preach: and is it not now as necessary?</p>
+            <p>Answ. <hi>Yes, in order to the baptizing of men of years, teaching was then, and is now, necessary before baptizing.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What was the ground then for teaching men of yeares before bapti<g ref="char:EOLhyphen"/>zing?</p>
+            <p>Ans. <hi>The very same that is now, and no o<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What is that?</p>
+            <p>Answ. <hi>That those that are without the christian church, might by teaching be brought to the profession of the christian faith, and so be admitted into the visible church by baptizing.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you make that evi<g ref="char:EOLhyphen"/>dent?</p>
+            <p>Answ. <hi>By the whole course of Scripture, which evidently declares, that teaching in order to baptizing, was to bring in Iews, or Gentiles, who did not yet professe the Chri<g ref="char:EOLhyphen"/>stian faith, to the profession of it, and upon
+<pb n="12" facs="tcp:93947:8"/>that to be baptized.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Then Turks, and Pagans, Infi<g ref="char:EOLhyphen"/>dels, and Iews, that are without the Church, and either never heard of the name of Christ, or have not embraced the profession of him, are to be taught before admitted into the Church by baptizing?</p>
+            <p>Answ. <hi>Yes verily.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> But are men of years who are within the Church, and make profession of the true faith, and have bin once bap<g ref="char:EOLhyphen"/>tized in infancy; required by this text to be baptized again, because the text speaks of teaching before baptizing?</p>
+            <p>Answ. <hi>No.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you make that good?</p>
+            <p>Answ. <hi>Because the baptisme of Infants born within the Church of professing pa<g ref="char:EOLhyphen"/>rents is valid by the same Precept, and there<g ref="char:EOLhyphen"/>fore not to be again repeated when they come of years.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you prove, that In<g ref="char:EOLhyphen"/>fants
+<pb n="13" facs="tcp:93947:8"/>borne of professing parents with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Church, ought by Christs precept to be baptized, and so their baptisme by precept valid?</p>
+            <p>Answ. <hi>Because, the precept runs expres<g ref="char:EOLhyphen"/>ly concerning the nations that are taught, that they ought to be baptized.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What wil follow from thence?</p>
+            <p>Answ. <hi>That the children of those nati<g ref="char:EOLhyphen"/>ons that are taught, ought to be baptized.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will that follow?</p>
+            <p>Answ. <hi>Because the children are a great part of the nations taught.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Will this follow, that because children are part of the nations taught, therefore they ought to be baptized? Answ. <hi>Yes: because the reason of child-bapti<g ref="char:EOLhyphen"/>zing is not to be fetcht from his own teach<g ref="char:EOLhyphen"/>ing, or capacity of being taught in a common sense; but from this, that the nations, where<g ref="char:EOLhyphen"/>of the child is a part, are taught in the sense of the precept.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What doe you understand by teaching in the sense of that precept?</p>
+            <p>Answ. <hi>It is agreed on all sides, that the
+<pb n="14" facs="tcp:93947:9"/>word in the originall which is translated (Teach) signifies to disciple, or make disciples.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What doe you understand then by discipling all nations?</p>
+            <p>Answ. <hi>I understand this, that those of years who are without the christian Church should by preaching of the gospel be called to the profession of the christian faith, and so both themselves and their children be repu<g ref="char:EOLhyphen"/>ted disciples and baptized.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> It will be granted, that men of years, called to the profession of the Christian faith by teaching, are to be ac<g ref="char:EOLhyphen"/>counted disciples, and baptized: but doth the precept include, that the children of those that are so called, are to be reputed disciples, and baptized?</p>
+            <p>Answ. <hi>That the children of those that are disciples, are to be reputed disciples, may be proved, both from the precept, and from other texts of Scripture; and the children being di<g ref="char:EOLhyphen"/>scipled, ought to be baptized, follows directly from the precept.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you prove first from the
+<pb n="15" facs="tcp:93947:9"/>precept, that the children of those that are disciples, ought to be reputed disciples?</p>
+            <p>Answ. <hi>That precept which commands the discipling of nations, must necessarily in<g ref="char:EOLhyphen"/>clude the children of those that are disci<g ref="char:EOLhyphen"/>pled.</hi>
+            </p>
+            <p>Q. What reason have you for that?</p>
+            <p>Answ. <hi>Because nations cannot be said to be discipled, unlesse children are disci<g ref="char:EOLhyphen"/>pled also, who are a great, if not the grea<g ref="char:EOLhyphen"/>test part of a Nation: and it is vnreasonable to think it, that the father should be counted a Christian, and the childe a Pagan; the father within, and the childe without the Church; or that Christ should accept the father without the dedication of his childe; or the father dedicate himselfe without the childe; or that the father should be accepted, and the childe rejected if dedicated.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> But have you any other plaine Scripture that the children of those that are disciples are to be accounted disci<g ref="char:EOLhyphen"/>ples?</p>
+            <p>Answ. <hi>Yes: when the people were com<g ref="char:EOLhyphen"/>manded
+<pb n="16" facs="tcp:93947:10"/>in the yeare of jubile to let their brother that was sold to them, and their children, goe free, the Lord adds this reason, For they are my servants.</hi> Lev. 25.41.42. <hi>There the children of those who were within the church, are called the Lords ser<g ref="char:EOLhyphen"/>vants: and in Acts:</hi> 15.10. <hi>they are called disciples, Why tempt yee God, to put a yoke upon the neck of the disciples. The yoke there spoken of, was the yoke of circumcision, which the false teachers would have laid upon the children as well as the fathers; and therefore the children as well as the fathers, called disciples.</hi>
+            </p>
+            <p>Q. How will it follow, that if chil<g ref="char:EOLhyphen"/>dren are disciples, then they ought to be baptized?</p>
+            <p>Answ. <hi>Directly from the precept, be<g ref="char:EOLhyphen"/>cause the text says, Goe make me disciples, baptizing them; therefore those that are made disciples, ought to be baptized.</hi>
+            </p>
+            <p>Q. But how are children capable of being made disciples?</p>
+            <p>Answ. <hi>Thus, the parent gives up his
+<pb n="17" facs="tcp:93947:10"/>name to Christ, both for himself and for his children.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Thus farre concerning Scrip<g ref="char:EOLhyphen"/>ture precept: what promise have you from whence you will gather by direct consequence, that some infants ought to be baptized?</p>
+            <p>Answ. <hi>That, in</hi> Gen. 17.7. <hi>I will esta<g ref="char:EOLhyphen"/>blish my covenant between me and thee, and thy seed after thee.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> But doth not that promise belong only to the seed of <hi>Abraham</hi> according to the flesh?</p>
+            <p>Answ. <hi>No.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you make that evi<g ref="char:EOLhyphen"/>dent?</p>
+            <p>Answ. <hi>Because the Apostle sayes, That the promise that</hi> Abraham <hi>should be the heir of the world, was not given to</hi> Abraham <hi>or to his seed through the law, but though the righteousnesse of faith.</hi> Rom. 4.13.</p>
+            <p>
+               <hi>Quest.</hi> And what if the promise be not given to <hi>Abraham</hi> or his seed through the Law, but through the righteousnesse
+<pb n="18" facs="tcp:93947:11"/>of faith: what will from thence follow?</p>
+            <p>Answ. <hi>That it did not belong onely unto the seed of</hi> Abraham <hi>according to the flesh, because that promise which was given through the righteousnesse of faith must belong to all his beleevers, whether they be his seed accord<g ref="char:EOLhyphen"/>ing to his flesh, or no.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Did that promise belong to <hi>A<g ref="char:EOLhyphen"/>brahams</hi> children at all, as they were his children, according to the flesh?</p>
+            <p>Answ. <hi>No.</hi> 1 <hi>because it was not given through the Law:</hi> 2 <hi>because the covenant which God made with</hi> Abraham <hi>and his seed, is said to be eternall; and the chief head thereof was this, that God would be their God: But this is not verified of</hi> Abrahams <hi>Chil<g ref="char:EOLhyphen"/>dren according to the flesh, for very few of them, for this hundred yeares, have been Gods people.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How then will you understand the promise?</p>
+            <p>Answ. <hi>It must necessarily be understood of</hi> Abrahams <hi>children according to beleeving.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Are all that beleeve <hi>Abrahams</hi> children?</p>
+            <pb n="19" facs="tcp:93947:11"/>
+            <p>Answ. <hi>Yes: for the Apostle sayes expresly, they that are of faith, are of the chil<g ref="char:EOLhyphen"/>dren of Abraham.</hi> Gal. 3.7.</p>
+            <p>
+               <hi>Quest.</hi> It is granted, that those that be<g ref="char:EOLhyphen"/>leeve, are the children of Abraham what will from thence follow?</p>
+            <p>Answ. <hi>That beleevers are within the covenant: because God says, I will establish my covenant between me and thee, and thy seed, those that are the children of</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>by beleeving.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> It is granted, that beleevers are within the covenant: what will from thence follow?</p>
+            <p>Answ. <hi>That their children are within the covenant.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you prove that?</p>
+            <p>Answ. <hi>Because Peter sayes so:</hi> Acts. 2.39. <hi>The promise is to you and your chil<g ref="char:EOLhyphen"/>dren, and to all that are afar off, even as many as the Lord our God shall call.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How doth Peter here say, that the children of beleevers are within the covenant?</p>
+            <pb n="20" facs="tcp:93947:12"/>
+            <p>Answ. <hi>Because he says, To as many as are called, the promise is made to them and their children.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Can that be the meaning of the text, That to as many as are called, the promise is made unto them and their children?</p>
+            <p>Answ. <hi>Yes: (that and no other) because, he useth an argument to perswade the Iews to obey the call of God: taken from the bene<g ref="char:EOLhyphen"/>fit that should come to their posterity as well as them,</hi> viz. <hi>that the promise is made unto them (if they obey the call of God) and unto their children, vpon that ground (because they obey it.)</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> And what wilfrom hence follow, if the children of beleevers are under the promise, and within the cove<g ref="char:EOLhyphen"/>nant?</p>
+            <p>Answ. <hi>That to some children the seal of the covenant doth belong, because those to whom the covenant belongs, the seal of the covenant belongs also.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> And what will from thence fol<g ref="char:EOLhyphen"/>low?</p>
+            <pb n="21" facs="tcp:93947:12"/>
+            <p>Answ. <hi>That baptisme, which is the seal of the covenant, under the new testament, belongs unto some Infants. Rom.</hi> 4.11.</p>
+            <p>
+               <hi>Quest.</hi> And what will from thence fol<g ref="char:EOLhyphen"/>low?</p>
+            <p>Answ. <hi>That the doctrine which concludes that no Infants ought to be baptized, is false; and the doctrine which asserts some Infants ought to be baptized, is true.</hi>
+            </p>
+            <p>
+               <hi>Quest</hi> What examples have you by which you will gather by direct conse<g ref="char:EOLhyphen"/>quence, that some Infants ought to be baptized?</p>
+            <p>Answ. <hi>The practice of Christ and his Apo<g ref="char:EOLhyphen"/>stles.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What can you alledge concer<g ref="char:EOLhyphen"/>ning the practice of Christ?</p>
+            <p>Answ. <hi>That he tooke children in his armes, and blessed them, and said, Suffer them to come unto me, for unto them belongs the kingdome of God,</hi> Luke. 18.16.</p>
+            <p>
+               <hi>Quest.</hi> What will from thence follow?</p>
+            <p>Answ. <hi>That some children ought to be admitted into the Church.</hi>
+            </p>
+            <pb n="22" facs="tcp:93947:13"/>
+            <p>
+               <hi>Quest.</hi> How will that follow?</p>
+            <p>Answ. <hi>Because, if they belong to the Kingdome of God, the lowest that can be said, is that they ought to be admitted into the Church.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> And what will from thence follow?</p>
+            <p>Answ. <hi>That some children ought to be baptized.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Why so?</p>
+            <p>Answ. <hi>Because, the way of admission into the Church, is by baptisme.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What can you alledge concer<g ref="char:EOLhyphen"/>ning the practice of the <hi>Apostles?</hi>
+            </p>
+            <p>Answ. <hi>That they baptized whole hous<g ref="char:EOLhyphen"/>holds, as was said before,</hi> Acts. 16.15.33. 1 Cor. 1.16.</p>
+            <p>
+               <hi>Quest.</hi> What will from thence fol<g ref="char:EOLhyphen"/>low?</p>
+            <p>Answ. <hi>That it is most probable, that some children were baptized.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> How will you answer that which is alledged, <hi>viz.</hi> that family is ta<g ref="char:EOLhyphen"/>ken in the places alledged for the
+<pb n="23" facs="tcp:93947:13"/>greater part of the family?</p>
+            <p>Answ. <hi>It is said expresly of the Goaler, that he was baptized and all that were his; therefore not only the greater part of his fa<g ref="char:EOLhyphen"/>milie:</hi> Acts. 16.33.</p>
+            <p>
+               <hi>Quest.</hi> But it is not said, that there were any children in those families.</p>
+            <p>Answ. <hi>As it is not said that there were any children, so it is not said, that there were any women or servants.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> What then?</p>
+            <p>Answ. <hi>Then, not saying concluds nothing; for who can doubt when the Holy Ghost speakes of baptizing housholds, but there, all besides the master or mistresse were baptized, though the rest are not mentioned.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> Is it probable, that there were any children in the families baptized?</p>
+            <p>Answ. <hi>More probable then that there were none. Because the Holy Ghost speaks of many families baptized; and it is no ways credible that in many families bles<g ref="char:EOLhyphen"/>sed by God, and converted to the Christian faith, there should be no children.</hi>
+            </p>
+            <pb n="24" facs="tcp:93947:14"/>
+            <p>
+               <hi>Quest.</hi> How will you make it evident, that if there were any children in the family, that they were baptized?</p>
+            <p>Answ. (1) <hi>Because the whole houshold was baptized:</hi> 2 <hi>because, if there were any children in the families, and they were not baptized, he would undoubtedly have excepted them, as he doth in the like case: I thanke God, I baptized none of you but Cris<g ref="char:EOLhyphen"/>pus and Gaius: I baptized also the houshold of Stephanus.</hi> 1 Cor. 1.4. <hi>therefore the Apostle certainly who is so exact and pun<g ref="char:EOLhyphen"/>ctuall in reckoning those whom he baptized, if he had baptized no children, he would have added, I baptized also the houshold of Stephanus, except the children.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93947:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
